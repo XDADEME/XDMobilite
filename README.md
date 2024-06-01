@@ -39,3 +39,5 @@ Mars à Mai 2022 : finalisation des inscriptions, formation des Equipes
 24 Mai 2022 : Date limite de demande d’aide financière ADEME sur le site Agir pour la Transition pour les équipes inscrites et validées
 21 Octobre 2022 : Remise des réponses des candidats
 21 Novembre 2022 : Résultat Final du Défi et des élections des collèges
+![image](https://github.com/XDADEME/XDMobilite/assets/171435255/cf5b51fc-42b8-43f2-93dd-8c31e5b0f266)
+
