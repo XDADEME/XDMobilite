@@ -5,6 +5,7 @@ XD ADEME Mobilité (l'eXtrême Défi) est un parcours d'innovation extrême en c
 
 
 ![image](https://github.com/XDADEME/XDMobilite/assets/171435255/31076f2c-81ee-4e55-94ba-1071264a2ad2)
+
 *Logo XDM*
 
 Il s'agit de créer simultanément de nouveaux véhicules (efficients, réparables, reconditionnables, légers, économes), de nouvelles industries (locales, complexes, in-délocalisable, capables de monter, produire, démonter, réparer, faire évoluer les véhicules au plus près des besoins et des territoires) et donc une large communauté aux compétences multiples et complémentaires. 
