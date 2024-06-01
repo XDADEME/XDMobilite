@@ -5,7 +5,9 @@ Il s'agit de créer simultanément de nouveaux véhicules (efficients, réparabl
 
 Le défi est présenté sur le site web public https://xd.ademe.fr/
 Les Acteurs et livrables du Défi se trouvent sur la page de la Communauté de l'eXtrême Défi https://wikixd.fabmob.io/wiki/XD:Accueil
+
 Vous pouvez rejoindre le Défi et choisir le rôle que vous voulez prendre : Témoin, Pionnier, Compagnon, Partenaire et Candidat. https://wikixd.fabmob.io/wiki/Devenir_acteur_de_l%27XD
+
 Les Contributions se trouvent sur le forum de discussion https://forum.fabmob.io/c/extreme-defi/25
 La phase de coopétition de la Saison 1 est régie par le Règlement de l'eXtrème Défi https://wikixd.fabmob.io/wiki/R%C3%A8glement_XD
 
