@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # About
 
 XD ADEME Mobilité (l'eXtrême Défi) est un parcours d'innovation extrême en coopétition dont l'objectif est de créer de nouvelles solutions de déplacement pour remplacer la voiture dans les déplacements du quotidien des territoires péri-urbains et ruraux, et la logistique en ville.
@@ -16,11 +30,7 @@ L'ADEME organise un programme global sur 3 années, découpé en cycle.
 * **2023 La 2e année** visait le passage à des prototypes fonctionnels qui ont été expérimentés en usage réel sur plusieurs semaines, tout en renouvelant également une phase d'idéation.
 * **2022 La 1ère année** était dédiée à l'idéation, à l'émergence d'une multitude de concepts, à des études de design et de capacités industrielles.
 
-###
-
 ### Acceptable characteristics of the solution:
-
-
 
 Les objectifs généraux consistent à faire **1000 fois mieux que la voiture au quotidien par une collection d'objets roulants véhiculant 1 à 2 personnes et une charge de 100kg ou bien 3 personnes et leurs sacs.**
 
@@ -30,29 +40,6 @@ Les objectifs généraux consistent à faire **1000 fois mieux que la voiture au
 * **10 x plus simple** en travaillant l'écoconception pour réduire le nombre de composant, avoir des assemblages démontables, utiliser au maximum des standards et travailler collectivement sur l'interopérabilité.
 * **10 x moins puissant** grâce à un véhicule léger et efficient mais également avec des vitesses maxi adaptées aux besoins et aux territoires entre 25 et 80 km/h. Pour la même vitesse moyenne de circulation
 
-### Dossier de réponse à l'XD
-
-
-
-**Ideation**
-
-
-
-Nous demandons aux Equipes candidates à l'extrême Défi de fournir leur réponse aux 6 parties demandées dans 2 fiches du wiki qui sont liées :
-
-* les spécifications de la réponse [ICI](https://pad.fabmob.io/s/srED\_w1sY)
-* la **fiche de l'Equipe** permettra de décrire 4 des 6 parties : Narratif, Ecosystème, Economique et Retours d'expériences,
-* la **fiche Véhicule** permet de décrire les 2 autres parties : Véhicule et Energétique. Si l'Equipe propose plusieurs véhicules, elle devra remplir plusieurs fiches véhicules.
-* Les spécifications détaillées sont consultables [ICI](https://pad.fabmob.io/s/srED\_w1sY). Les évaluations seront évaluées directement sur le wiki par l’ADEME et également par le jury.
-
-**Prototypes**
-
-
-
-Les véhicules candidats devront obligatoirement répondre au cahier des charges de l’XD en ayant décrit leur concept de véhicule sur le wiki comme indiqué ci dessus dans la phase Idéation. Il est demandé d'utiliser au maximum de composants standards commercialisés issus de véhicules existants (vélo, moto, auto ou autre secteur) et des composants, sous-ensembles mutualisés avec une ou plusieurs autres équipes de l'XD.
-
-**Financement**
-
-
+### **Financement**
 
 Voir la page [Wiki dédiée](https://wikixd.fabmob.io/wiki/Trouver\_des\_financements\_pour\_votre\_projet\_XD)
