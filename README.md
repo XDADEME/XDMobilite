@@ -10,4 +10,7 @@ Il s'agit de créer simultanément de nouveaux véhicules (efficients, réparabl
 * Les Contributions se trouvent sur le forum de discussion https://forum.fabmob.io/c/extreme-defi/25
 * La phase de coopétition de la Saison 1 est régie par le Règlement de l'eXtrème Défi https://wikixd.fabmob.io/wiki/R%C3%A8glement_XD
 
-L'ADEME organise un programme global sur 3 années, découpé en cycle. La 1ère année est dédiée à l'idéation, à l'émergence d'une multitude de concepts, à des études de design et de capacités industrielles. La 2nd année vise le passage à des prototypes fonctionnels qui seront expérimentés en usage réel sur plusieurs semaines en renouvelant également une phase d'idéation. Puis s'ajoutera une phase dédiée au passage à l'échelle : production, assemblage, réparation, reconditionnement, pour réinterroger le design des véhicules en répétant idéation et prototypes.
+L'ADEME organise un programme global sur 3 années, découpé en cycle. 
+## La 1ère année est dédiée à l'idéation, à l'émergence d'une multitude de concepts, à des études de design et de capacités industrielles. 
+## La 2nd année vise le passage à des prototypes fonctionnels qui seront expérimentés en usage réel sur plusieurs semaines en renouvelant également une phase d'idéation. 
+## Puis s'ajoutera une phase dédiée au passage à l'échelle : production, assemblage, réparation, reconditionnement, pour réinterroger le design des véhicules en répétant idéation et prototypes.
