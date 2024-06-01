@@ -30,7 +30,7 @@ L'ADEME organise un programme global sur 3 années, découpé en cycle.
 * **2023 La 2e année** visait le passage à des prototypes fonctionnels qui ont été expérimentés en usage réel sur plusieurs semaines, tout en renouvelant également une phase d'idéation.
 * **2022 La 1ère année** était dédiée à l'idéation, à l'émergence d'une multitude de concepts, à des études de design et de capacités industrielles.
 
-### Acceptable characteristics of the solution:
+### Caractéristiques acceptables de la solution :
 
 Les objectifs généraux consistent à faire **1000 fois mieux que la voiture au quotidien par une collection d'objets roulants véhiculant 1 à 2 personnes et une charge de 100kg ou bien 3 personnes et leurs sacs.**
 
