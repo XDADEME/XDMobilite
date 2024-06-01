@@ -50,10 +50,29 @@ Mars à Mai 2022 : finalisation des inscriptions, formation des Equipes
 
 Les objectifs généraux consistent à faire **1000 fois mieux que la voiture au quotidien par une collection d'objets roulants véhiculant 1 à 2 personnes et une charge de 100kg ou bien 3 personnes et leurs sacs.**
 
-* **10 fois moins couteux par rapport à une automobile** (0,6 à 0,8 €/km pour 10000 km/an d'après A.C.F.) en intégrant l'ensemble des dépenses grâce à un embarquement de batterie minimaliste, l'utilisation de composant standardisé, mutualisé entre différents véhicules et une conception permettant de garantir une longue durée de vie, donc une faible perte de valeur dans le temps,
-* **10 fois plus durable** en visant une très haute recyclabilité, capacité à être réparé, reconditionné pour avoir plusieurs vies, plusieurs usages. La durée de vie moyenne d'une voiture est de 13 ans et l'âge moyen du parc automobile est de 11 ans.
-* **10 fois plus léger** pour réduire fortement le besoin de batterie, la consommation d'énergie donc les coûts. La masse moyenne des voitures neuves vendues en 2019 est 1240kg. Ce critère est essentiel pour atteindre la neutralité carbone.
-* **10 fois plus simple** en travaillant l'écoconception pour réduire le nombre de composant, avoir des assemblages démontables, utiliser au maximum des standards et travailler collectivement sur l'interopérabilité.
-* **10 fois moins puissant** grâce à un véhicule léger et efficient mais également avec des vitesses maxi adaptées aux besoins et aux territoires entre 25 et 80 km/h.
+* **10 x moins couteux par rapport à une automobile** (0,6 à 0,8 €/km pour 10000 km/an d'après A.C.F.) en intégrant l'ensemble des dépenses grâce à un embarquement de batterie minimaliste, l'utilisation de composant standardisé, mutualisé entre différents véhicules et une conception permettant de garantir une longue durée de vie, donc une faible perte de valeur dans le temps,
+* **10 x plus durable** en visant une très haute recyclabilité, capacité à être réparé, reconditionné pour avoir plusieurs vies, plusieurs usages. La durée de vie moyenne d'une voiture est de 13 ans et l'âge moyen du parc automobile est de 11 ans.
+* **10 x plus léger** pour réduire fortement le besoin de batterie, la consommation d'énergie donc les coûts. La masse moyenne des voitures neuves vendues en 2019 est 1240kg. Ce critère est essentiel pour atteindre la neutralité carbone.
+* **10 x plus simple** en travaillant l'écoconception pour réduire le nombre de composant, avoir des assemblages démontables, utiliser au maximum des standards et travailler collectivement sur l'interopérabilité.
+* **10 x moins puissant** grâce à un véhicule léger et efficient mais également avec des vitesses maxi adaptées aux besoins et aux territoires entre 25 et 80 km/h. Pour la même vitesse moyenne de circulation
+
+## Dossier de réponse à l'XD
+
+### Ideation
+Nous demandons aux Equipes candidates à l'extrême Défi de fournir leur réponse aux 6 parties demandées dans 2 fiches du wiki qui sont liées :
+
+* les spécifications de la réponse
+* la fiche de l'Equipe permettra de décrire 4 des 6 parties : Narratif, Ecosystème, Economique et Retours d'expériences,
+* la fiche Véhicule permet de décrire les 2 autres parties : Véhicule et Energétique. Si l'Equipe propose plusieurs véhicules, elle devra remplir plusieurs fiches véhicules.
+* Les spécifications détaillées sont consultables ICI. Les évaluations seront évaluées directement sur le wiki par l’ADEME et également par le jury.
+
+### Prototypes
+Les véhicules candidats devront obligatoirement répondre au cahier des charges de l’XD en ayant décrit leur concept de véhicule sur le wiki comme indiqué ci dessus dans la phase Idéation. Il est demandé d'utiliser au maximum de composants standards commercialisés issus de véhicules existants (vélo, moto, auto ou autre secteur) et des composants, sous-ensembles mutualisés avec une ou plusieurs autres équipes de l'XD.
+
+### Financement
+Voir la page dédiée
+
+
+
 
 
