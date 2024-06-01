@@ -12,8 +12,6 @@ Il s'agit de créer simultanément de nouveaux véhicules (efficients, réparabl
 
 L'ADEME organise un programme global sur 3 années, découpé en cycle.
 
-La 1ère année était dédiée à l'idéation, à l'émergence d'une multitude de concepts, à des études de design et de capacités industrielles. 
-
-La 2e année visait le passage à des prototypes fonctionnels qui ont été expérimentés en usage réel sur plusieurs semaines, tout en renouvelant également une phase d'idéation. 
-
-La 3e année est dédiée au passage à l'échelle : production, assemblage, réparation, reconditionnement, afin de réinterroger le design des véhicules en répétant les phases d'idéation et de prototypes.
+1. La 1ère année était dédiée à l'idéation, à l'émergence d'une multitude de concepts, à des études de design et de capacités industrielles. 
+2. La 2e année visait le passage à des prototypes fonctionnels qui ont été expérimentés en usage réel sur plusieurs semaines, tout en renouvelant également une phase d'idéation. 
+3. La 3e année est dédiée au passage à l'échelle : production, assemblage, réparation, reconditionnement, afin de réinterroger le design des véhicules en répétant les phases d'idéation et de prototypes.
