@@ -25,7 +25,6 @@ L'ADEME organise un programme global sur 3 années, découpé en cycle.
 * **2022 La 1ère année** était dédiée à l'idéation, à l'émergence d'une multitude de concepts, à des études de design et de capacités industrielles. 
 
 ## Planning
----
 
 L'extrême défi se déroule sur plusieurs années ou saisons avec des temps de production et des temps de formation, documentation, mise en perspective.
 
@@ -50,7 +49,6 @@ Mars à Mai 2022 : finalisation des inscriptions, formation des Equipes
 21 Novembre 2022 : Résultat Final du Défi et des élections des collèges
 
 ## Acceptable characteristics of the solution:
----
 
 Les objectifs généraux consistent à faire **1000 fois mieux que la voiture au quotidien par une collection d'objets roulants véhiculant 1 à 2 personnes et une charge de 100kg ou bien 3 personnes et leurs sacs.**
 
@@ -61,7 +59,6 @@ Les objectifs généraux consistent à faire **1000 fois mieux que la voiture au
 * **10 x moins puissant** grâce à un véhicule léger et efficient mais également avec des vitesses maxi adaptées aux besoins et aux territoires entre 25 et 80 km/h. Pour la même vitesse moyenne de circulation
 
 ## Dossier de réponse à l'XD
----
 
 #### Ideation
 Nous demandons aux Equipes candidates à l'extrême Défi de fournir leur réponse aux 6 parties demandées dans 2 fiches du wiki qui sont liées :
