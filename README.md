@@ -50,10 +50,10 @@ Mars à Mai 2022 : finalisation des inscriptions, formation des Equipes
 
 Les objectifs généraux consistent à faire **1000 fois mieux que la voiture au quotidien par une collection d'objets roulants véhiculant 1 à 2 personnes et une charge de 100kg ou bien 3 personnes et leurs sacs.**
 
-* 10 fois moins couteux par rapport à une automobile (0,6 à 0,8 €/km pour 10000 km/an d'après A.C.F.) en intégrant l'ensemble des dépenses grâce à un embarquement de batterie minimaliste, l'utilisation de composant standardisé, mutualisé entre différents véhicules et une conception permettant de garantir une longue durée de vie, donc une faible perte de valeur dans le temps,
-* 10 fois plus durable en visant une très haute recyclabilité, capacité à être réparé, reconditionné pour avoir plusieurs vies, plusieurs usages. La durée de vie moyenne d'une voiture est de 13 ans et l'âge moyen du parc automobile est de 11 ans.
-* 10 fois plus léger pour réduire fortement le besoin de batterie, la consommation d'énergie donc les coûts. La masse moyenne des voitures neuves vendues en 2019 est 1240kg. Ce critère est essentiel pour atteindre la neutralité carbone.
-* 10 fois plus simple en travaillant l'écoconception pour réduire le nombre de composant, avoir des assemblages démontables, utiliser au maximum des standards et travailler collectivement sur l'interopérabilité.
-* 10 fois moins puissant grâce à un véhicule léger et efficient mais également avec des vitesses maxi adaptées aux besoins et aux territoires entre 25 et 80 km/h.
+* **10 fois moins couteux par rapport à une automobile** (0,6 à 0,8 €/km pour 10000 km/an d'après A.C.F.) en intégrant l'ensemble des dépenses grâce à un embarquement de batterie minimaliste, l'utilisation de composant standardisé, mutualisé entre différents véhicules et une conception permettant de garantir une longue durée de vie, donc une faible perte de valeur dans le temps,
+* **10 fois plus durable** en visant une très haute recyclabilité, capacité à être réparé, reconditionné pour avoir plusieurs vies, plusieurs usages. La durée de vie moyenne d'une voiture est de 13 ans et l'âge moyen du parc automobile est de 11 ans.
+* **10 fois plus léger** pour réduire fortement le besoin de batterie, la consommation d'énergie donc les coûts. La masse moyenne des voitures neuves vendues en 2019 est 1240kg. Ce critère est essentiel pour atteindre la neutralité carbone.
+* **10 fois plus simple** en travaillant l'écoconception pour réduire le nombre de composant, avoir des assemblages démontables, utiliser au maximum des standards et travailler collectivement sur l'interopérabilité.
+* **10 fois moins puissant** grâce à un véhicule léger et efficient mais également avec des vitesses maxi adaptées aux besoins et aux territoires entre 25 et 80 km/h.
 
 
