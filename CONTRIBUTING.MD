@@ -59,19 +59,100 @@ Le forum de la FabMob possède un canal dédié à l'XD. Il permet des échanges
 
 ♥ Les pionniers, compagnons et partenaires sont invités à se présenter sur le Forum (ICI) et à rejoindre une ou plusieurs conversations.
 
-## Rejoindre le Chat
-Le chat de la FabMob possède plusieurs canaux dédiés à l'XD. Ils peuvent être publics ou privés. Il y a notamment :
+## Rejoindre les 11 Groupes de Travail (GT)
 
-[XD_GT_evenement_conf]
-[XD_GT_Batteries]
-[XD_GT_Business]
-[XD_GT_Ecoles]
-[XD_GT_Experimentation]
-[XD_GT_Homolo]
-[XD_GT_logiciel_data]
-[XD_GT_Marketing et Imaginaires]
+Pour résoudre des verrous identifiés sur plusieurs projets, plusieurs GT collaboratifs ont été initiés. Ils sont organisés pour que tout le monde puisse les rejoindre, se mettre au courant des actions réalisées et s'impliquer.
 
-Le chat est à privilégier pour des échanges rapides, une question, une idée, une information. Il permet d'éviter les mails. Chaque GT collaboratif a un canal de chat dédié. Il est possible d'ouvrir des canaux privés aux équipes candidates qui le souhaitent.
+Animé par un pilote, chaque GT se réunit, produit, documente et partage à son rythme en utilisant le forum.
+Chaque personne intéressée par un GT s'inscrit via l'infolettre (ou liste de diffusion) disponible dans chaque GT. Le pilote validera votre inscription et vous invitera aux prochaines réunions en utilisant la liste de diffusion.
+Nous proposons ce guide pour animer un GT. Pour lancer un nouveau GT, écrivez nous !
+Trouver votre GT
+
+
+### [GT: Homologation Réglementation Certification XD](https://wikixd.fabmob.io/wiki/GT_Homologation_R%C3%A9glementation_Certification_XD)
+Pilote : Philippe Cabon (AVELI, INVD)
+Echanger sur le sujets de réglementation, d'homologation à la fois pour autoriser la circulation des prototypes et des productions
+Création d'un cadre réglementaire pour simplifier la circulation des véhicules prototypes non homologués
+Ici nous nous intéressons également à la certification de l'assemblage
+
+### [GT: Label et Analyse du cycle de vie (ACV)](https://wikixd.fabmob.io/wiki/GT_Label_et_ACV)
+Pilote : Eric Boespflug (ADEME)
+Travail sur un label pour les véhicules intermédiaires (efficience du véhicule et sa production, éco-conception, réparabilité)
+L'analyse de cycle de vie attributionnelle (ou ACV-A)
+Le développement et le partage de l'outil Excel permettant de faire une ACV d'un véhicule intermédiaire
+Véhicule: Composants et prototypage
+
+### [GT: Logiciels et Données](https://wikixd.fabmob.io/wiki/GT_Logiciels_et_Donn%C3%A9es_XD)
+Pilote : Fabien Gainier (Campus Cyber)
+Travailler la cybersécurité des véhicules intermédiaires avec le Campus Cyber
+Utiliser / produire des logiciels sous licence ouverte
+Mutualiser un OS sur plusieurs véhicules
+Quelles opportunités en matière de données véhicules ?
+
+### [GT: Prototype et Industrie](https://wikixd.fabmob.io/wiki/GT_Logiciels_et_Donn%C3%A9es_XD)
+Pilote : Virgile Bourlet (ADEME), Gabriel Plassat (ADEME)
+Aider les équipes candidates dans les phases liées à la réalisation des véhicules : prétotypes, prototypes et pré-séries.
+Mutualiser des contacts, savoir faire, compétences, moyens et partager des retours d'expériences
+
+### [GT: Batterie XD](https://wikixd.fabmob.io/wiki/GT_Batterie_XD)
+Pilote : Virgile Bourlet (ADEME)
+Identifier des verrous collectifs qui bloquent ou pénalisent plusieurs projets de véhicules intermédiaires
+Co-animer sur chaque verrou en fonction de ses compétences et intérêts
+
+### [GT: Territoires et Expérimentations](https://wikixd.fabmob.io/wiki/GT_Territoires_et_Exp%C3%A9rimentations_XD)
+Pilote : Johana Casallas (ADEME), Hélène Jacquemin (INVD), Olivier Maffre (FabMob)
+Communication vers les citoyens, entreprises (salariés), autres cibles
+Cibler une ou plusieurs commune pour le cas des métropoles
+Impliquer les citoyens, les mettre en posture de demande de solution
+Impliquer les services techniques de la commune et le gestionnaire du parc de véhicules
+Impliquer les associations, relais, …
+Nouer des échanges entre territoires
+Autres idées : formations, etc ...
+
+### [GT: Marché Business model XD](https://wikixd.fabmob.io/wiki/GT_March%C3%A9_Business_mod%C3%A8le_XD)
+Pilote : Guillaume De Sousa
+Identifier des verrous collectifs qui bloquent ou pénalisent plusieurs projets de véhicules intermédiaires
+Co-animer sur chaque verrou en fonction de ses compétences et intérêts
+Travailler les modèles économiques, la comptabilité pour réduire la barrière pour l'utilisateur
+
+### [GT: GT Région Occitanie](https://wikixd.fabmob.io/wiki/GT_R%C3%A9gion_Occitanie)
+Pilotes : Jean-luc Maté, Samuel Puygrenier (ADEME)
+Tisser un réseau régional et informer les parties prenantes
+Faire connaître l'XD
+Co-organiser des évènements
+Culture et éducation
+
+### [GT: Ecoles et Universités](https://wikixd.fabmob.io/wiki/GT_Ecoles_et_Universit%C3%A9s)
+Pilotes : Thomas Germain et Benjamin Gentils (FabPéda)
+Identifier des sujets de recherche, aider à monter des projets de recherche
+Définir les meilleures temporalités et méthodes pour travailler avec les écoles
+Proposer une liste de sujets utiles à l'XD et intéressants pour les écoles et universités
+Mettre en œuvre des formation pour les candidats de l'XD en s'appuyant sur les écoles et universités
+Permettre aux écoles et universités d'utiliser l'XD et ses livrables pour développer des formations, des TP
+Faciliter le partage entre écoles et universités
+Concours inter-écoles, Faciliter l'organisation d'un Hackathon autres idées
+
+### [GT : Marketing et imaginaires](https://wikixd.fabmob.io/wiki/GT_Art_Culture_et_Style_de_vie)
+Pilote : Justyna Swat (TINYLABS), Marie-Noéline Viguié (Ici-Demain), Erik Grab (Michelin, TINYLABS)
+Construire un marketing pour faire connaitre et rendre désirables les véhicules intermédiaires, faire entrer les véhicules intermédiaires par l'affect et le sensible, Identifier les artistes et voyageurs qui utilisent des véhicules intermédiaires
+AXE 1 : Marketing du Produit au Marché
+AXE 2 : Marketing Centré sur l'Utilisateur et comité des imaginaires
+AXE 3 : Marketing Général XD
+
+
+### [GT: Investissement et financement](https://wikixd.fabmob.io/wiki/GT_Investissement_et_financement_XD)
+Pilote : Jerome Ravet, Nicolas le Douarec, Minh nguyen dac, Alexandre Grandremy
+Travailler les projets des constructeurs de Véli pour renforcer leur capacité à attirer les investisseurs,
+Echanger avec différents types d'investisseurs
+GT clos
+
+
+GT: Association des Véhicules Intermédiaires XD (clos) -> [aveli.org](https://www.aveli.org/) 
+Se fédérer pour parler d'une voix
+Travailler les sujets liés à l'homolo, réglementation
+Communiquer ensemble
+Faire comprendre l'intérêt de ces véhicules vers le marché
+
 
 ## Utiliser le Cloud
 Le cloud, dossier XD public qui nous permet d'échanger des fichiers sans passer par des pièces jointes dans les mails. Les différents clouds sont indiqués dans chaque GT collaboratif.
@@ -79,11 +160,11 @@ Le cloud, dossier XD public qui nous permet d'échanger des fichiers sans passer
 ## S'inscrire aux listes de diffusion
 Chaque GT collaboratif utilise une liste de diffusion pour garder le contact avec toutes les personnes intéressées par le sujet. Chaque personne doit s'inscrire elle-même sur la liste ou se désinscrire : Score Label et ACV, Batterie, Ecoles et Universités, Homologation, Marché et business model, Industrie et Proto, Territoires et Expérimentations, Logiciels et Données, Arts Culture et Style de vie, Financement et Investissement.
 
+## Agenda
+Ici vous pouvez trouver toutes les opportunités à venir pour vous connecter activement avec les différents acteurs de XD. Que ce soit en ligne ou hors ligne. Nous ajoutons régulièrement de nouveaux événements car la communauté grandit. Vous pouvez également ajouter un évènement en indiquant pour le champs 'Communauté' : Communauté de l'eXtrême Défi.
+
+--> [Consulter notre agenda](https://wikixd.fabmob.io/wiki/D%C3%A9couvrir_et_s%27impliquer_dans_les_%C3%A9v%C3%A8nements_et_conf%C3%A9rences_de_l%27XD) 
 Vous devez également vous inscrire sur la ou les listes de diffusion qui vous intéressent pour recevoir les informations : Pionnier, Compagnon, Partenaire ou Equipe Candidate.
 
-Pour toute question vous pouvez nous écrire par mail ou aller sur le forum
-Tous les outils sur mon Mobile
-Flashez ce QR code pour avoir tous les outils sur votre mobile !
 
-Qr code outilsXD.png
-Category: XD
+
