@@ -163,7 +163,7 @@ Chaque GT collaboratif utilise une liste de diffusion pour garder le contact ave
 ## Agenda
 Ici vous pouvez trouver toutes les opportunités à venir pour vous connecter activement avec les différents acteurs de XD. Que ce soit en ligne ou hors ligne. Nous ajoutons régulièrement de nouveaux événements car la communauté grandit. Vous pouvez également ajouter un évènement en indiquant pour le champs 'Communauté' : Communauté de l'eXtrême Défi.
 
---> [Consulter notre agenda](https://wikixd.fabmob.io/wiki/D%C3%A9couvrir_et_s%27impliquer_dans_les_%C3%A9v%C3%A8nements_et_conf%C3%A9rences_de_l%27XD) 
+→ [Consulter notre agenda](https://wikixd.fabmob.io/wiki/D%C3%A9couvrir_et_s%27impliquer_dans_les_%C3%A9v%C3%A8nements_et_conf%C3%A9rences_de_l%27XD) 
 Vous devez également vous inscrire sur la ou les listes de diffusion qui vous intéressent pour recevoir les informations : Pionnier, Compagnon, Partenaire ou Equipe Candidate.
 
 
